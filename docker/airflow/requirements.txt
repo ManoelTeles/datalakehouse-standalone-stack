@@ -1,0 +1,10 @@
+requests
+pandas
+celery
+kombu
+tornado
+werkzeug
+pyspark==3.3.2
+SQLAlchemy
+wtforms
+apache-airflow-providers-apache-spark==4.0.1

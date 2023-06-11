@@ -15,8 +15,8 @@ By working with this project, you will gain hands-on experience with popular tec
 
 ## Features
 
-    to do
+to do
 
 ## Getting Started
 
-docker compose up -d
+    docker compose up -d

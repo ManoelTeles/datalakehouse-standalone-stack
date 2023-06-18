@@ -34,9 +34,12 @@ Description - To do
 ![Initial Architecture](./datalakehouse-architecture.png)
 
 
-
 ## Getting Started
+To start data flows tools
 
-    docker compose up -d
+    docker compose -d -f docker/docker-compose.yaml up
 
+To start data layer
+
+    docker compose -d -f docker/docker-compose-data.yaml up
 
